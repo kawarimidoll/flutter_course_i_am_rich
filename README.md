@@ -1,0 +1,1 @@
+# flutter_course_i_am_rich
