@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-var imageUrl =
-    'https://raw.githubusercontent.com/kawarimidoll/kawarimidoll/master/assets/kawarimiku_v4x.png';
 // The main() function in mian.dart is the entrypoint for all our Flutter apps.
 void main() {
   runApp(
@@ -15,7 +13,7 @@ void main() {
         backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
-            image: NetworkImage(imageUrl),
+            image: AssetImage('images/diamond.png')
           ),
         ),
       ),
