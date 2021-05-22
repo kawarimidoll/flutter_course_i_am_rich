@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="861514ed-0e91-45bb-ade1-c202be5a14a9" name="Default Changelist" comment="" />
+    <list default="true" id="861514ed-0e91-45bb-ade1-c202be5a14a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/kawarimidoll/.android/avd/Pixel_3a_XL_API_30.avd]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -19,9 +25,13 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -40,9 +50,13 @@
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
     <state x="1598" y="599" key="#Notifications/0.25.3440.1415@0.25.3440.1415" timestamp="1621599740927" />
-    <state x="1221" y="368" key="SettingsEditor" timestamp="1621637382319">
+    <state x="1120" y="332" width="1200" height="800" key="AVDManager" timestamp="1621644578889">
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
-    <state x="1221" y="368" key="SettingsEditor/0.25.3440.1415@0.25.3440.1415" timestamp="1621637382318" />
+    <state x="1120" y="332" width="1200" height="800" key="AVDManager/0.25.3440.1415@0.25.3440.1415" timestamp="1621644578889" />
+    <state x="1221" y="368" key="SettingsEditor" timestamp="1621644577062">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1221" y="368" key="SettingsEditor/0.25.3440.1415@0.25.3440.1415" timestamp="1621644577062" />
   </component>
 </project>
